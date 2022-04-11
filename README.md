@@ -49,6 +49,6 @@
 
 
 [linkedin]: https://in.linkedin.com/in/kemin-kasundra-b48b93161
-[twitter]: https://twitter.com/KasundraKemin
+[twitter]: https://twitter.com/keminkasundra
 [github]: https://github.com/keminjk
 [email]: mailto:keminkasundra@gmail.com
