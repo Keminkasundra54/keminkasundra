@@ -40,7 +40,6 @@
 
 ## Profile Views
 
-<img src="https://profile-counter.glitch.me/keinjk/count.svg">
 
 <br />
 
