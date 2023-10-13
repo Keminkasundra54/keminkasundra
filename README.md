@@ -38,13 +38,7 @@
 ![](https://img.shields.io/badge/Gitlab-316192?style=for-the-badge&logo=gitlab&logoColor=white&color=white)
 
 
-## Profile Views
 
-
-<br />
-
-![Kemin Kasundra's GitHub stats](https://github-readme-stats.vercel.app/api?username=keminjk&count_private=true&show_icons=true&theme=dark)
-<br />
 
 
 [linkedin]: https://in.linkedin.com/in/kemin-kasundra-b48b93161
