@@ -15,7 +15,7 @@ Let's connect and chat! You can reach me via:
 [<img align="left" alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img align="left" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
-
+<br />
 
 ## 🧰 Languages & Tools
 
@@ -40,6 +40,8 @@ Let's connect and chat! You can reach me via:
 ![](https://img.shields.io/badge/GitHub-316192?style=for-the-badge&logo=github&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Bitbucket-316192?style=for-the-badge&logo=bitbucket&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Gitlab-316192?style=for-the-badge&logo=gitlab&logoColor=white&color=white)
+
+<br />
 GitHub Stats
 Here's a quick overview of my GitHub activity:
 
