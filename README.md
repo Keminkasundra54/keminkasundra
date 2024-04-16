@@ -53,3 +53,8 @@ Project Name - Brief description.
 
 Thanks for visiting my GitHub profile! I hope you find something interesting here. Feel free to reach out and connect, and let's build something awesome together! 🚀
 
+
+[linkedin]: https://in.linkedin.com/in/kemin-kasundra-b48b93161
+[twitter]: https://twitter.com/keminkasundra
+[github]: https://github.com/keminkasundra
+[email]: mailto:keminkasundra@gmail.com
