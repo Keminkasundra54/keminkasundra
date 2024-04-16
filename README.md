@@ -52,6 +52,7 @@ Here are some projects I've been working on:
 
 HRMS - A Human Resource Management System (HRMS) is a comprehensive software solution designed to streamline and automate the processes related to managing an organization's human resources. It serves as a centralized platform for HR professionals to efficiently manage employee data, payroll, benefits administration, recruitment, performance evaluations, and other HR-related tasks.
 <br />
+<br />
 Internal Chat Application - An Internal Chat Application is a communication tool designed specifically for use within an organization to facilitate real-time messaging and collaboration among employees. It provides a secure and centralized platform for team members to communicate, share information, and collaborate on projects, regardless of their physical location..
 <br />
 
