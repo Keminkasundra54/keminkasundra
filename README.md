@@ -39,7 +39,6 @@ Let's connect and chat! You can reach me via:
 ![](https://img.shields.io/badge/Git-316192?style=for-the-badge&logo=git&logoColor=white&color=red)
 ![](https://img.shields.io/badge/GitHub-316192?style=for-the-badge&logo=github&logoColor=white&color=black)
 ![](https://img.shields.io/badge/Bitbucket-316192?style=for-the-badge&logo=bitbucket&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Gitlab-316192?style=for-the-badge&logo=gitlab&logoColor=white&color=white)
 
 <br />
 
