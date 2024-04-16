@@ -42,19 +42,22 @@ Let's connect and chat! You can reach me via:
 ![](https://img.shields.io/badge/Gitlab-316192?style=for-the-badge&logo=gitlab&logoColor=white&color=white)
 
 <br />
+
 GitHub Stats
 Here's a quick overview of my GitHub activity:
-
+<br />
 
 Featured Projects
+<br />
 Here are some projects I've been working on:
 
-HRMS - A Human Resource Management System (HRMS) is a comprehensive software solution designed to streamline and automate the processes related to managing an organization's human resources. It serves as a centralized platform for HR professionals to efficiently manage employee data, payroll, benefits administration, recruitment, performance evaluations, and other HR-related tasks..
+HRMS - A Human Resource Management System (HRMS) is a comprehensive software solution designed to streamline and automate the processes related to managing an organization's human resources. It serves as a centralized platform for HR professionals to efficiently manage employee data, payroll, benefits administration, recruitment, performance evaluations, and other HR-related tasks.
+<br />
 Internal Chat Application - An Internal Chat Application is a communication tool designed specifically for use within an organization to facilitate real-time messaging and collaboration among employees. It provides a secure and centralized platform for team members to communicate, share information, and collaborate on projects, regardless of their physical location..
-Project Name - Brief description.
+<br />
 
 Thanks for visiting my GitHub profile! I hope you find something interesting here. Feel free to reach out and connect, and let's build something awesome together! 🚀
-
+<br />
 
 [linkedin]: https://in.linkedin.com/in/kemin-kasundra-b48b93161
 [twitter]: https://twitter.com/keminkasundra
