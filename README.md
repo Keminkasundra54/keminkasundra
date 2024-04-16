@@ -1,7 +1,7 @@
 ## Hi there, I'm Kemin Kasundra
 
-- 🔭 I’m Frontend Developer
-- 🌱 I’m currently working on Angular, Ionic, Vue and Flutter
+- 🔭 I’m FullStack Developer
+- 🌱 I’m currently working on Angular, Ionic, Vue, Flutter and NodeJs
 - 👯 Currently exploring open source projects
 - 📫 How to reach me: keminkasundra@gmail.com
 
