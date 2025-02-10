@@ -70,7 +70,6 @@ A mobile and web application that connects service providers with users for vari
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keminkasundra&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keminkasundra&layout=compact&theme=radical)  
 
 ---
